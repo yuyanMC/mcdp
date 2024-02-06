@@ -1,0 +1,3 @@
+func say(){
+    Command.say("Hello say world!");
+}

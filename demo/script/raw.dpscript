@@ -1,0 +1,5 @@
+func raw(){
+    %rawstart%
+    say Hello raw world!
+    %rawend%
+}
